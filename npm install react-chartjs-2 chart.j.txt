@@ -1,0 +1,4 @@
+npm install react-chartjs-2 chart.js chartjs-plugin-datalabels
+npm install framer-motion
+npm install react-slick slick-carousel
+
